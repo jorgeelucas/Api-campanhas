@@ -62,3 +62,5 @@ GET => "/desafio/v1/campanhas/por-socio/{id}" (Obter as novas campanhas por soci
 #### Nas responstas foi escolhido o objeto ResponseEntity do spring para gerenciar todo o objeto da resposta.
 
 #### Para testes eu estava usando o POSTMAN com os endpoints informados acima.
+
+> Essa aplicação roda na porta 9090
