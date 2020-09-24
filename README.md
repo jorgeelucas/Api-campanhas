@@ -6,6 +6,11 @@
 
 ### Instalação
 
+- git clone 
+- mvn test
+- mvn clean install
+- mvn spring-boot:run
+
 ## Api-campanhas
 
 - **Swagger:** http://localhost:9090/swagger-ui.html
